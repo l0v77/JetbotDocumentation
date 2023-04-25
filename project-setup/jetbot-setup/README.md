@@ -43,6 +43,23 @@ After doing that, reboot the device by "sudo reboot now" and you should be able 
 df -h
 ```
 
+### Container
+
+Note that the image provided creates a container, and using WLAN0\_ADDRESS:8888 directs you to the jupyter note book inside the container. I recommend do everything in the container unless you understand what you are doing.&#x20;
+
+If you want to exit the container and access jetbot@nano-4gb-jp45, Open a terminal from jupyter note book and type
+
+```
+ssh jetbot@0.0.0.0
+```
+
+It will ask you for password, which is simply jetbot. Now you are under root directory of jetbot and have access to sudo command. You can shutdown or reboot here without needing to connect to the board using extra screen and keyboard.
+
+```
+sudo shutdown now
+sudo reboot now
+```
+
 ### Setup Python
 
 If you encounter issue that python cannot import any packages, try following
