@@ -17,5 +17,7 @@
   * [control\_pkg](packages-and-logic/code-structure/control\_pkg/README.md)
     * [cftoc.py](packages-and-logic/code-structure/control\_pkg/cftoc.py.md)
     * [heading\_angle\_generator.py](packages-and-logic/code-structure/control\_pkg/heading\_angle\_generator.py.md)
-  * [path\_pkg](packages-and-logic/code-structure/path\_pkg.md)
+  * [path\_pkg](packages-and-logic/code-structure/path\_pkg/README.md)
+    * [path finder](packages-and-logic/code-structure/path\_pkg/path-finder.md)
+    * [main.py](packages-and-logic/code-structure/path\_pkg/main.py.md)
   * [vision\_pkg](packages-and-logic/code-structure/vision\_pkg.md)
