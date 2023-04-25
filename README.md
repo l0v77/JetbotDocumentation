@@ -12,6 +12,8 @@ By going through project report and this document, you should (maybe) be able to
 
 This document is built with gitbook, published to the [link](https://jetbot-team.gitbook.io/jetbot-team-2022-2023/). You can clone the repo from [here.](https://github.com/l0v77/JetbotDocumentation)
 
+The source code for the actual project can be found and cloned from [here](https://github.com/davidq1688/Cap\_Project\_Jetbot).
+
 ### Get in Touch
 
 To reach out to teammembers try emailing 7752110v77#gmail.com (replace # with @).

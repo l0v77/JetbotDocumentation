@@ -1,2 +1,0 @@
-# Ipopt Installation (On Laptop)
-
