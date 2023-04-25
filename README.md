@@ -10,7 +10,7 @@ The project is built based on [Jetbot](https://jetbot.org/master/index.html), wh
 
 By going through project report and this document, you should (maybe) be able to replicate the process and result that was done by the Jetbot team in 2022 Fall semester year.
 
-This document is built with gitbook, published to the link
+This document is built with gitbook, published to the [link](https://jetbot-team.gitbook.io/jetbot-team-2022-2023/). You can clone the repo from [here.](https://github.com/l0v77/JetbotDocumentation)
 
 ### Get in Touch
 
