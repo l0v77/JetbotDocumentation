@@ -21,3 +21,7 @@
     * [path finder](packages-and-logic/code-structure/path\_pkg/path-finder.md)
     * [main.py](packages-and-logic/code-structure/path\_pkg/main.py.md)
   * [vision\_pkg](packages-and-logic/code-structure/vision\_pkg.md)
+
+## Test the project
+
+* [Before running main.py](test-the-project/before-running-main.py.md)

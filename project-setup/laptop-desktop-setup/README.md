@@ -9,3 +9,7 @@ pip install numpy matplotlib ....(not finished)
 ```
 
 OpenCV needs to be installed with a legacy edtion
+
+```
+// Some code
+```
