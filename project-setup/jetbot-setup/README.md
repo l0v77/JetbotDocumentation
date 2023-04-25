@@ -43,3 +43,19 @@ After doing that, reboot the device by "sudo reboot now" and you should be able 
 df -h
 ```
 
+### Setup Python
+
+If you encounter issue that python cannot import any packages, try following
+
+```
+cd jetbot
+python3 setup.py  // python setup.py
+```
+
+You might also need to do so in your conda environment
+
+```
+conda activate YOUR_ENV_NAME
+cd jetbot
+python setup.py
+```
