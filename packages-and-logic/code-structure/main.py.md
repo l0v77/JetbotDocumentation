@@ -7,3 +7,7 @@ This file corresponds to [main.py](https://github.com/davidq1688/Cap\_Project\_J
 ### Camera taking too long to initiate
 
 Replace cap = cv2.VideoCapture(#OF\_YOURCAMERA, cv2.CAP\_DSHOW).
+
+```
+// Some code
+```
