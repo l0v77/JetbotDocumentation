@@ -6,6 +6,10 @@ Install the conda environment on your laptop/desktop by following the instructio
 
 ```
 pip install numpy matplotlib ...... // install all thats being imported
+// package include:
+// numpy
+// scipy 
+// matplotlib
 ```
 
 Simplist way to do this is to try run the main.py file and install the packages according to the error message prompted.
